@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Strategy\Assets\Strategy1.cs">
+    <Files>
+      <File FileName="..\Strategy\Assets\IStrategy.cs" Line="6" Column="2" />
+      <File FileName="..\Strategy\Assets\Strategy1.cs" Line="6" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

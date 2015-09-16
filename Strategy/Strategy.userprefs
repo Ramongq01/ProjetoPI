@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Strategy3.cs">
+    <Files>
+      <File FileName="Assets\IStrategy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Strategy1.cs" Line="1" Column="1" />
+      <File FileName="Assets\StrategyController.cs" Line="17" Column="39" />
+      <File FileName="Assets\Strategy2.cs" Line="12" Column="30" />
+      <File FileName="Assets\Strategy3.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
